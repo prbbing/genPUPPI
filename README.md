@@ -21,8 +21,8 @@ In this case there will be i rows (separated by ,), centered
 
 For example "hello,this is the,puppi generator" will give you
 
-     hello
-  this is the
+   hello
+ this is the
 puppi generator
 
 Enjoy
