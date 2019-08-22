@@ -9,7 +9,7 @@ export PYTHONPATH=$PYTHONPATH:/usr/local/lib/python2.7/site-packages
 
 Now you are all set.
 
-To execute the command:
+To execute the command (in the same directory as genPUPPI.py):
 
 python genPUPPI.py "your message"
 
