@@ -11,8 +11,3 @@ request_memory          = 4000M
 +JobFlavour           = "workday"
 +Requirements           = OpSysAndVer =?= "CentOS7"
 queue 1
-
-
-
-
-#
